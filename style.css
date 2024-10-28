@@ -1,0 +1,7 @@
+#stopwatch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 2em;
+  gap: 10px;
+}
